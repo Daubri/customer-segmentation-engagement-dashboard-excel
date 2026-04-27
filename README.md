@@ -1,3 +1,4 @@
+![Dashboard Preview](customer-dashboard.png.jpeg)
 # Customer Segmentation & Engagement Dashboard (Excel)
 
 ## Project Overview
